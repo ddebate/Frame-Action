@@ -1,0 +1,49 @@
+# Frame Action
+
+> Frame Action is a med spa marketing agency specializing in digital marketing for medical spas, aesthetic practices, and cosmetic clinics across the United States.
+
+Frame Action offers comprehensive marketing services designed exclusively for med spa owners and operators. The agency combines proven SEO strategies with Answer Engine Optimization (AEO) — optimizing practices for discovery on both Google and AI-powered search tools including ChatGPT, Perplexity, Google AI Overviews, and Bing Copilot.
+
+## About
+
+Frame Action was founded by marketing professionals with 25+ years of combined industry experience, built in collaboration with the founders of DentalQore — the leading dental marketing agency that pioneered niche-specific digital marketing for healthcare-adjacent practices. Frame Action applies this proven model to the med spa vertical with one key addition: AEO (Answer Engine Optimization) built in from day one, preparing practices for the AI-powered future of search.
+
+**Key differentiators:**
+- AEO-first approach: The only med spa agency leading with Answer Engine Optimization
+- Speed to launch: AI-powered workflows deliver client websites in approximately one week
+- Med Spa exclusive: Deep vertical focus exclusively on aesthetic practices
+- Consultative approach: Warm, hands-on service built for owner-operators
+
+## Services
+
+- [Website Design](/services/website-design.html): Custom, conversion-optimized websites for med spas. Includes treatment pages, before/after galleries, online booking integration, review widgets, and online booking. Mobile-first, fast-loading, SEO and AEO ready on day one. Delivered in approximately one week.
+
+- [SEO — Search Engine Optimization](/services/seo.html): Local SEO, Google Business Profile optimization, treatment-specific keyword targeting, technical SEO, and ongoing content strategy. Designed to rank med spas in the Google Map Pack and organic results for high-intent local treatment searches.
+
+- [AEO — Answer Engine Optimization](/services/aeo.html): Optimization for AI-powered search results. Frame Action implements llms.txt files, FAQ schema markup, structured data, and content architecture to help med spas appear in ChatGPT, Perplexity, Google AI Overviews, and Bing Copilot responses.
+
+- [Paid Advertising](/services/paid-advertising.html): Google Ads (search and display) and Meta Ads (Facebook and Instagram) campaigns built for med spa lead generation. Includes retargeting campaigns and monthly performance reporting.
+
+- [Reputation Management](/services/reputation-management.html): Proactive Google review generation, monitoring, and response strategy. Includes review widget integration on client websites.
+
+- [Social Media Management](/services/social-media.html): Content creation and platform management for Instagram, Facebook, and TikTok. Med Spa-specific content including before/after showcases, educational content, and seasonal promotions.
+
+## What is Answer Engine Optimization (AEO)?
+
+Answer Engine Optimization (AEO) is the practice of structuring a website's content, technical setup, and online presence so that AI-powered tools — including ChatGPT, Perplexity, Google AI Overviews, and Bing Copilot — can read, understand, and cite the practice when users ask relevant questions. AEO includes llms.txt file creation, FAQ schema markup, LocalBusiness and MedicalBusiness structured data, consistent NAP citations, and content written for AI readability.
+
+## Target Clients
+
+Frame Action serves med spa owners and operators of all sizes, with Phase 1 focus on single-location owner-operators. Target practices offer high-revenue-per-treatment services including Botox, dermal fillers, laser treatments, body contouring, and skin rejuvenation.
+
+## Contact
+
+- Website: https://frameaction.com
+- Email: hello@frameaction.com
+- Book a free demo: https://frameaction.com/contact.html
+
+## Additional Resources
+
+- [Why Frame Action](/why-frame-action.html): About the founders, the DentalQore connection, and the Frame Action approach
+- [Blog](/blog/): Articles on med spa marketing, SEO, AEO, and practice growth
+- [Results](/results.html): Client results and case studies (in progress)
