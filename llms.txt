@@ -6,7 +6,7 @@ Frame Action offers comprehensive marketing services designed exclusively for me
 
 ## About
 
-Frame Action was founded by marketing professionals with 25+ years of combined industry experience, built in collaboration with the founders of DentalQore — the leading dental marketing agency that pioneered niche-specific digital marketing for healthcare-adjacent practices. Frame Action applies this proven model to the med spa vertical with one key addition: AEO (Answer Engine Optimization) built in from day one, preparing practices for the AI-powered future of search.
+Frame Action was founded by a product designer and a marketing strategist — Danny and Lester — with the conviction that niche-specific marketing dramatically outperforms generalist agencies for healthcare-adjacent practices. Frame Action is built exclusively for the med spa vertical, with AEO (Answer Engine Optimization) built in from day one, preparing practices for the AI-powered future of search.
 
 **Key differentiators:**
 - AEO-first approach: The only med spa agency leading with Answer Engine Optimization
@@ -44,6 +44,6 @@ Frame Action serves med spa owners and operators of all sizes, with Phase 1 focu
 
 ## Additional Resources
 
-- [Why Frame Action](/why-frame-action.html): About the founders, the DentalQore connection, and the Frame Action approach
+- [Why Frame Action](/why-frame-action.html): About the founders and the Frame Action approach
 - [Blog](/blog/): Articles on med spa marketing, SEO, AEO, and practice growth
 - [Results](/results.html): Client results and case studies (in progress)
